@@ -1,5 +1,4 @@
 Food App
 
-<!-- Uploading "Screenshot_1738746539.png"... -->
-<!-- Uploading "Screenshot_1738746552.png"... -->
-<!-- Uploading "Screenshot_1738746557.png"... -->
+
+https://github.com/EMRH9/meals-app/issues/1#issue-2832362088
